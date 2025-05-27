@@ -18,12 +18,14 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '愿我如同虚空和大地',
+  HEO_HERO_TITLE_2: '永远支持一切无边众生的生命',
+  HEO_HERO_TITLE_1: '永远支持',
+  HEO_HERO_TITLE_2: '一切无边众生的生命',
+  HEO_HERO_TITLE_3: 'Dudjom Online.TOP',
+  HEO_HERO_TITLE_4: '嘉贡',
+  HEO_HERO_TITLE_5: '旦巴确吉坚措仁波切',
+  
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
